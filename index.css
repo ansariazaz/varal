@@ -576,7 +576,7 @@ nav{
    
 }
 .social img{
-    margin-right: 12px;
+    margin-right: 10px;
 }
 .pol{
     margin-right: 40px;
@@ -589,7 +589,12 @@ nav{
 .side-line{
     font-size: 20px;
 }
-
+.view{
+    width: 120px;
+}
+.social{
+    margin-top: 14px;
+}
   }
   
 
