@@ -552,11 +552,14 @@ nav{
 }
 .flex{
     display: flex;
-    font-size: 12px;
+    font-size: 14px;
     justify-content: space-between;
 }
 .flex a{
-    font-size: 12px;
+    font-size: 14px;
+}
+.say2{
+    font-size: 18px;
 }
 .subscribe{
     display: none;
@@ -582,6 +585,9 @@ nav{
     font-size: 14px;
     text-align: center;
     margin-top: 0px;
+}
+.side-line{
+    font-size: 20px;
 }
 
   }
